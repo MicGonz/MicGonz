@@ -1,9 +1,7 @@
 # Hi, I'm Michel 👨‍🔬
 
-[![CV Badge](https://img.shields.io/badge/-CV-D14836?style=for-the-badge&logo=ReadTheDocs&logoColor=white)](https://github.com/fobos123deimos/fobos123deimos/blob/main/MatheusCordeiroCv.pdf)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/michel-gonzaga-dos-santos-50b75a180)
-[![ORCID Badge](https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white)](https://orcid.org/0000-0001-5318-5158)
-
+[![ORCID Badge](https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white)](https://orcid.org/0009-0006-8163-2115)
 ---
 
 I'm a collaborative and inquisitive data scientist who values clear communication as a cornerstone for both research and development teams. While I believe teamwork thrives on effective dialogue, I see curiosity as my core trait—driving me to explore, question, and learn continuously 🔍🌿.
