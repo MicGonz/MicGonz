@@ -1,7 +1,6 @@
 # Hi, I'm Michel 👨‍🔬
 
-[![CV Badge](https://img.shields.io/badge/-CV-D14836?style=for-the-badge&logo=ReadTheDocs&logoColor=white)](https://github.com/fobos123deimos/fobos123deimos/blob/main/MatheusCordeiroCv.pdf)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/michel-gonzaga-dos-santos-50b75a180)
+[![CV Badge](https://img.shields.io/badge/-CV-D14836?style=for-the-badge&logo=ReadTheDocs&logoColor=white)](https://github.com/fobos123deimos/fobos123deimos/blob/main/MatheusCordeiroCv.pdf)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/michel-gonzaga-dos-santos-50b75a180)
 [![ORCID Badge](https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white)](https://orcid.org/0000-0001-5318-5158)
 
 ---
