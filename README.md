@@ -43,18 +43,4 @@ I specialize in:
 - ✅ Advanced **Natural Language Processing (NLP)** applied to trajectory prediction with **Transformer models (Huggingface)**, treating sequences of geospatial points as sentences.
 - ✅ Model Governance, Reproducibility, EDA, Benchmarking, Feature Engineering, and Model Performance Evaluation.
 
-### 🔬 Some of my published research:
 
-- *Smart Farming with Deep Neural Networks:* [DOI](https://www.sciencedirect.com/science/article/abs/pii/S0167739X21004428?via%3Dihub)  
-- *Trajectory Modeling via NLP:* [DOI](https://www.mdpi.com/1424-8220/22/19/7475) — [**Teach GitHub**](https://github.com/InsightLab/teach)  
-- *Deep Learning for Trajectory Classification:* [DOI](https://www.scitepress.org/Link.aspx?doi=10.5220/0010227906640671)  
-- *Neuroevolution for Game AI:* [DOI](https://www.sbgames.org/sbgames2019/files/papers/ComputacaoFull/198468.pdf)  
-
-This experience combines **academic rigor with real-world AI**, delivering solutions in **Machine Learning, NLP, Risk Modeling, Deep Learning, Data Science**, and **Model Governance**.
-
----
-
-## 📊 Stats :man_technologist:
----
-
-[![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=fobos123deimos&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
