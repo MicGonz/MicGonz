@@ -10,12 +10,12 @@ I'm a collaborative and inquisitive data scientist who values clear communicatio
 
 #### 🔥 I'm usually programming in one of these languages:
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=python&sort=)
-[![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=r&sort=)
-[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=latex)
-[![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=sql&sort=)
-[![C/C++](https://img.shields.io/badge/C/C++-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://github.com/fobos123deimos?tab=repositories&q=c)
-[![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=flat-square&logo=mathworks&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=matlab&sort=)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
+[![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)]()
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)]()
+[![C/C++](https://img.shields.io/badge/C/C++-A8B9CC?style=flat-square&logo=c&logoColor=black)]()
+[![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=flat-square&logo=mathworks&logoColor=white)]()
 
 ---
 
